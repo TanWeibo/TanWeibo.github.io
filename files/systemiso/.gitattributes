@@ -1,9 +1,0 @@
-Windows[[:space:]]7.iso filter=lfs diff=lfs merge=lfs -text
-Windows[[:space:]]Vista.iso filter=lfs diff=lfs merge=lfs -text
-Windows[[:space:]]XP.iso filter=lfs diff=lfs merge=lfs -text
-Windows[[:space:]]200[[:space:]]Pro.iso filter=lfs diff=lfs merge=lfs -text
-Windows[[:space:]]Server[[:space:]]2003.iso filter=lfs diff=lfs merge=lfs -text
-Windows[[:space:]]Server[[:space:]]2003[[:space:]]R2[[:space:]]disk2.iso filter=lfs diff=lfs merge=lfs -text
-H:/github/tanweibo.github.io/files/systemiso filter=lfs diff=lfs merge=lfs -text
-/h/github/tanweibo.github.io/*.iso filter=lfs diff=lfs merge=lfs -text
-Windows[[:space:]]Server[[:space:]]2003[[:space:]]R2[[:space:]]disk2 filter=lfs diff=lfs merge=lfs -text
