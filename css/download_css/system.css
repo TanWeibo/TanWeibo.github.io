@@ -1,3 +1,9 @@
 .link_msdn{
     color:red
 }
+a:hover{
+    color:grey
+}
+h1{
+    color:grey
+}
