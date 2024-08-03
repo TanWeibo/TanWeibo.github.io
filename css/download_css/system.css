@@ -1,7 +1,10 @@
 .link_msdn{
     color:red
 }
-a:hover{
+a{
+    color:gold
+}
+.no_this_file:hover{
     color:grey
 }
 h1{
